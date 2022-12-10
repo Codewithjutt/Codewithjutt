@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [https://codewithjutt.github.io./](https://codewithjutt.github.io./)
+- 👨‍💻 All of my projects are available at [[https://codewithjutt.github.io./](https://codewithjutt.github.io./)](https://github.com/Codewithjutt)
 
 - 💬 Ask me about **React, Node, Express, Mongoose, Firebase**
 

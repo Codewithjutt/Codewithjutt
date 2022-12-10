@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **usamaabdulrehman950@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qSV8BP7rLqr1HJfYZItAWzuvloM-okbD/view?usp=sharing]file:///C:/Users/Usama/Documents/scholarship/Usama's+Resume+(1).pdf
+- 📄 Know about my experience file:///C:/Users/Usama/Documents/scholarship/Usama's+Resume+(1).pdf
 
 - ⚡ Fun fact **I am not funny at all...**
 

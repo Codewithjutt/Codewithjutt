@@ -1,4 +1,4 @@
-<img src='https://gkmit.s3.amazonaws.com/blog/articles/MEAN%20VS%20MERN%20STACK-%20WHO%20WILL%20WIN%20THE%20WAR%20IN%202021_%20Feature%20image.png' alt="banner"></img>
+<img src='https://semidotinfotech.com/web/images/frontend_banner.jpg' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm Usama Abd-ul-Rehman</h1>
 <h3 align="center">A passionate MERN stack developer</h3>

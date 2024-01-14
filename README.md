@@ -1,6 +1,6 @@
 <img src='https://semidotinfotech.com/web/images/frontend_banner.jpg' alt="banner"></img>
 
-<h1 align="center">Hi 👋, I'm Usama Abd-ul-Rehman</h1>
+<h1 align="center">Hi 👋, I'm Osama Abdul Rehman</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaammar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaammar-dev" /> </p>

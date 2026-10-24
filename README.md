@@ -4,9 +4,6 @@
 <h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="left">  </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyaammar-dev" alt="yahyaammar-dev" /></a> </p>
-
 - 🔭 I’m currently working on **Webdevrs**
 
 - 🌱 I’m currently learning **Devops**
